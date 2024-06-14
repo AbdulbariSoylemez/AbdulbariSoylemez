@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQF0iLuAnD3Atg/profile-displaybackgroundimage-shrink_350_1400/0/1718402524455?e=1723680000&v=beta&t=pDt3Ham3nGH_PkLxV6jKCR4fvDhDPV03FfoPh2O6IoU)
 
 ![](https://komarev.com/ghpvc/?username=AbdulbariSoylemez&color=blue)
 <div align="center">
