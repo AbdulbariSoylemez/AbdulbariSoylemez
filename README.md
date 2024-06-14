@@ -1,3 +1,4 @@
+[![MasterHead](https://www.linkedin.com/in/abdulbarisöylemez/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Abdulbari Söylemez :)</h1>
 <h3 align="center">Hello! I am Abdulbari, an engineer and developer who focuses on artificial intelligence and machine learning projects. I am working on projects that aim to produce and develop solutions for real life applications.</h3>
 
