@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEN4-RM5X86Tg/profile-displaybackgroundimage-shrink_350_1400/0/1718398959597?e=1723680000&v=beta&t=obfPtuko5HB_KvmZt0Pja34WMMlXen4YgjN8blzZfhk)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEN4-RM5X86Tg/profile-displaybackgroundimage-shrink_350_1400/0/1718398959597?e=1723680000&v=beta&t=obfPtuko5HB_KvmZt0Pja34WMMlXen4YgjN8blzZfhk)
 <h1 align="center">Hi 👋, I'm Abdulbari Söylemez :)</h1>
 <h3 align="center">Hello! I am Abdulbari, an engineer and developer who focuses on artificial intelligence and machine learning projects. I am working on projects that aim to produce and develop solutions for real life applications.</h3>
 
