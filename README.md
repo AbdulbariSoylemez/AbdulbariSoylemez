@@ -1,4 +1,4 @@
-<h1 align="center"> Creating a who investigates, contextualizing and human interactive model is difficult, but it is essential for future advances... </h1>
+<h3 align="center"> Creating a who investigates, contextualizing and human interactive model is difficult, but it is essential for future advances... </h3>
 <div align="center">
  <a href="https://github.com/AbdulbariSoylemez">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Abdulbari+Söylemez+ :)+%e2%9c%a8;%f0%9f%93%9a+ AI +Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
@@ -7,7 +7,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm glad you came to my profile :)</h1>
 <h3 align="center">Hello! I am Abdulbari, an engineer and developer who focuses on artificial intelligence and machine learning projects. I am working on projects that aim to produce and develop solutions for real life applications.</h3>
 
 <h3 align="left">Connect with me:</h3>
